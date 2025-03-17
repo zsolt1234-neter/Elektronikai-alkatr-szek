@@ -1,4 +1,4 @@
-# Elektronikai-alkatr-szek
+# Elektronikai-alkatrészek
 1. Reszisztor (Ellenállás)
 Funkciója: Az áram erősségét szabályozza, az áramkörben ellenállásként működik.
 Alkalmazás: Feszültségosztók, áramkorlátozás, áramkörök stabilizálása.
